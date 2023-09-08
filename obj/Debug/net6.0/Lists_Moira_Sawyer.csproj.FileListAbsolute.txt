@@ -1,0 +1,14 @@
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\bin\Debug\net6.0\Lists_Moira_Sawyer.exe
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\bin\Debug\net6.0\Lists_Moira_Sawyer.deps.json
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\bin\Debug\net6.0\Lists_Moira_Sawyer.runtimeconfig.json
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\bin\Debug\net6.0\Lists_Moira_Sawyer.dll
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\bin\Debug\net6.0\Lists_Moira_Sawyer.pdb
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\Lists_Moira_Sawyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\Lists_Moira_Sawyer.AssemblyInfoInputs.cache
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\Lists_Moira_Sawyer.AssemblyInfo.cs
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\Lists_Moira_Sawyer.csproj.CoreCompileInputs.cache
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\Lists_Moira_Sawyer.dll
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\refint\Lists_Moira_Sawyer.dll
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\Lists_Moira_Sawyer.pdb
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\Lists_Moira_Sawyer.genruntimeconfig.cache
+C:\Users\MoiraSawyer\source\repos\Lists_Moira_Sawyer\obj\Debug\net6.0\ref\Lists_Moira_Sawyer.dll
